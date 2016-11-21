@@ -1,4 +1,3 @@
-## 基于Seq2Seq模型的聊天机器人
 ## Chatbot based on seq2seq model
 
 
