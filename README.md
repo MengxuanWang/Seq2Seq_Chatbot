@@ -1,5 +1,8 @@
+##Chatbot based on seq2seq model
+
 # About 
-Chatbot based on seq2seq model 
+Neural network architecture used for Google's Neural Machine Translation 
+http://smerity.com/articles/2016/google_nmt_arch.html  
 
 
 # Dependencies
