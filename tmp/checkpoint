@@ -1,2 +1,4 @@
-model_checkpoint_path: "chatbot.ckpt-38800"
+model_checkpoint_path: "chatbot.ckpt-39200"
 all_model_checkpoint_paths: "chatbot.ckpt-38800"
+all_model_checkpoint_paths: "chatbot.ckpt-39000"
+all_model_checkpoint_paths: "chatbot.ckpt-39200"
