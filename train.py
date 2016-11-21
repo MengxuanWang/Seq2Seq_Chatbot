@@ -18,7 +18,7 @@ flags.DEFINE_integer("max_epoch", 6, "Maximum number of times to go over trainin
 flags.DEFINE_integer("hidden_size", 128, "Size of each model layer")
 flags.DEFINE_integer("num_layers", 2, "Number of layers in the model")
 flags.DEFINE_integer("vocab_size", 40000, "Max vocabulary size")
-flags.DEFINE_integer("dropout", 0.5, "Probability of hidden inputs being removed between 0 and 1")
+flags.DEFINE_integer("dropout", 1.0, "Probability of hidden inputs being removed between 0 and 1")
 flags.DEFINE_integer("num_samples", 1024, "Number of samples for sampled softmax loss")
 flags.DEFINE_integer("max_train_data_size", 0, "Limit on the size of training data (0: no limit)")
 flags.DEFINE_integer("steps_per_checkpoint", 200, "How many training steps to do per checkpoint")
